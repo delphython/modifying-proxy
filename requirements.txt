@@ -1,0 +1,2 @@
+aiohttp==3.7.4
+html2text==2019.9.26
